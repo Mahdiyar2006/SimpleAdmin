@@ -1,0 +1,21 @@
+﻿@using VideoShop.Services.Services
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new CategoryCourseService().Get(ViewBag.Id);
+}
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Details
+        </div>
+        <div class="card-body">
+            <p style="font-weight: bold">Title: </p>
+            <p>@item.Title</p>
+            <br />
+            <a href="/CategoryCourses/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>

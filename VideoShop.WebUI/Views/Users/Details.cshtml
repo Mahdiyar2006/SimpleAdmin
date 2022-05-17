@@ -1,0 +1,27 @@
+﻿@using VideoShop.Services.Services
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new AppUserService().Get(ViewBag.Id);
+}
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Details
+        </div>
+        <div class="card-body">
+            <p style="font-weight: bold">First Name: </p>
+            <p>@item.FirstName</p>
+            <p style="font-weight: bold">Last Name: </p>
+            <p>@item.LastName</p>
+            <p style="font-weight: bold">User Name: </p>
+            <p>@item.UserName</p>
+            <p style="font-weight: bold">Password(Hash Sha1): </p>
+            <p>@item.Password</p>
+            <br />
+            <a href="/Users/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>

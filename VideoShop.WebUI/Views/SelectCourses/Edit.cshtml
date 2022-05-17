@@ -1,0 +1,58 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new SelectCourseService().Get(ViewBag.Id);
+    var CourseSelected = new CourseService().Get(item.CourseId);
+    var AppUserSelected = new AppUserService().Get(item.AppUserId);
+    var AppUsers = new AppUserService().GetAll();
+    var Courses = new CourseService().GetAll();
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Edit
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/SelectCourses/EditOP" method="post">
+                <input value="@item.Id" type="hidden" name="id" />
+                <p>App User: </p>
+                <select class="form-control" name="userId">
+                    @foreach (var i in AppUsers)
+                    {
+                        if (i.Id == AppUserSelected.Id)
+                        {
+                            <option selected value="@i.Id">@i.FirstName @i.LastName</option>
+                        }
+                        else
+                        {
+                            <option value="@i.Id">@i.FirstName @i.LastName</option>
+
+                        }
+                    }
+                </select>
+                <p>Course: </p>
+                <select class="form-control" name="courseId">
+                    @foreach (var i in Courses)
+                    {
+                        if (i.Id == CourseSelected.Id)
+                        {
+                            <option selected value="@i.Id">@i.CourseName</option>
+                        }
+                        else
+                        {
+                            <option value="@i.Id">@i.CourseName</option>
+                        }
+                    }
+                </select>
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

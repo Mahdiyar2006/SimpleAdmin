@@ -1,0 +1,90 @@
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csprojAssemblyReference.cache
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Javad\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csprojAssemblyReference.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.deps.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.AssemblyReference.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.csproj.CopyComplete
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\ref\VideoShop.Services.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\obj\Debug\net5.0\VideoShop.Services.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Core.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.Services\bin\Debug\net5.0\VideoShop.Core.pdb

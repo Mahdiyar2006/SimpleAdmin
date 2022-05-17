@@ -1,0 +1,64 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new CourseService().Get(ViewBag.Id);
+    var TeachersSelected = new TeacherService().GetAll().Where(p => p.Id == item.TeacherId).First();
+    var CourseCategroySelected = new CategoryCourseService().Get(item.CategoryCourseId);
+    var Teachers = new TeacherService().GetAll();
+    var CourseCategroy = new CategoryCourseService().GetAll();
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Edit
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/Courses/EditOP" method="post">
+                <input value="@item.Id" type="hidden" name="id" />
+                <p>Course Name: </p>
+                <input value="@item.CourseName" class="form-control" type="text" name="cName" />
+                <p>Subject Name: </p>
+                <input value="@item.CourseSubject" class="form-control" type="text" name="cSubject" />
+                <p>Content: </p>
+                <input value="@item.Content" class="form-control" type="text" name="content" />
+                <p>Teacher: </p>
+                <select class="form-control" name="tId">
+                    @foreach (var i in Teachers)
+                    {
+                        if (i.Id == TeachersSelected.Id)
+                        {
+                            <option selected value="@i.Id">@i.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@i.Id">@i.Name</option>
+
+                        }
+                    }
+                </select>
+                <p>Course Category: </p>
+                <select class="form-control" name="ccId">
+                    @foreach (var i in CourseCategroy)
+                    {
+                        if (i.Id == CourseCategroySelected.Id)
+                        {
+                            <option selected value="@i.Id">@i.Title</option>
+                        }
+                        else
+                        {
+                            <option value="@i.Id">@i.Title</option>
+                        }
+                    }
+                </select>
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

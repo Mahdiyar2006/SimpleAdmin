@@ -1,0 +1,33 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new AppUserService().Get(ViewBag.Id);
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Edit
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/Users/EditOP" method="post">
+                <input name="id" type="hidden" value="@item.Id"/> 
+                <p>First Name: </p>
+                <input value="@item.FirstName" class="form-control" type="text" name="name" />
+                <p>Last Name: </p>
+                <input value="@item.LastName" class="form-control" type="text" name="lastname" />
+                <p>User Name: </p>
+                <input value="@item.UserName" class="form-control" type="text" name="username" />
+                <p>Password: </p>
+                <input class="form-control" type="text" name="password" />
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

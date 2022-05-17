@@ -1,0 +1,35 @@
+﻿@using VideoShop.Services.Services
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new SelectCourseService().Get(ViewBag.Id);
+    var Course = new CourseService().Get(item.CourseId);
+    var AppUser = new AppUserService().Get(item.AppUserId);
+}
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Details
+        </div>
+        <div class="card-body">
+            <p style="font-weight: bold">Course Name: </p>
+            <p>@Course.CourseName</p>
+            <p style="font-weight: bold">Course Subject: </p>
+            <p>@Course.CourseSubject</p>
+            <p style="font-weight: bold">Content: </p>
+            <p>@Course.Content</p>
+            <p style="font-weight: bold">Category Course: </p>
+            <p>@(new CategoryCourseService().Get(Course.CategoryCourseId).Title)</p>
+            <p style="font-weight: bold">Teacher Name: </p>
+            <p>@(new TeacherService().GetAll().Where(p => p.Id == Course.TeacherId).First().Name)</p>
+            <p style="font-weight: bold">First Name: </p>
+            <p>@AppUser.FirstName</p>
+            <p style="font-weight: bold">Last Name: </p>
+            <p>@AppUser.LastName</p>
+            <br />
+            <a href="/SelectCourses/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>

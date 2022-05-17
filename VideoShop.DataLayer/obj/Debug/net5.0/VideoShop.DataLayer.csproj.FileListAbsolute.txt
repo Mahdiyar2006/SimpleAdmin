@@ -1,0 +1,90 @@
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Javad\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache
+D:\Javad\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Projects\Visual Studio\.Net Core\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache
+D:\Javad\Reza\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csprojAssemblyReference.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\sony\Desktop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.deps.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.runtimeconfig.dev.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.AssemblyReference.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.DataLayer.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.DataLayer.genruntimeconfig.cache

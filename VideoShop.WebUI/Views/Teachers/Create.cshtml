@@ -1,0 +1,29 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Create
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/Teachers/CreateOP" method="post">
+                <p>Name: </p>
+                <input class="form-control" type="text" name="name" />
+                <p>Age: </p>
+                <input class="form-control" type="text" name="age" />
+                <p>Address: </p>
+                <input class="form-control" type="text" name="address" />
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

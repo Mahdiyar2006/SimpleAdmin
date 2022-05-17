@@ -1,0 +1,55 @@
+﻿@using VideoShop.Core.Domains
+@using VideoShop.Services.Services;
+@model ICollection<AppUser>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <p>Users</p>
+                    <a href="/Users/Create" class="btn btn-success">Create</a>
+                </div>
+                <div class="card-body">
+                    <table id="table_id" class="display">
+                        <thead>
+                            <tr>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>User Name</th>
+                                <th></th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.FirstName</td>
+                                    <td>@item.LastName</td>
+                                    <td>@item.UserName</td>
+                                    <td><a href="/Users/Edit?Id=@(item.Id)" class="btn btn-primary">Edit</a></td>
+                                    <td><a href="/Users/Details?Id=@(item.Id)" class="btn btn-warning">Details</a></td>
+                                    <td><a href="/Users/Delete?Id=@(item.Id)" class="btn btn-danger">Delete</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+        let table = new DataTable('#table_id', {
+    });
+</script>
+
+

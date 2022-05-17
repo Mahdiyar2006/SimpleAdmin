@@ -1,0 +1,40 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var Courses = new CourseService().GetAll();
+    var Users = new AppUserService().GetAll();
+
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Create
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/SelectCourses/CreateOP" method="post">
+                <p>Course Category: </p>
+                <select class="form-control" name="userId">
+                    @foreach (var item in Users)
+                    {
+                        <option value="@item.Id">@item.FirstName @item.LastName</option>
+                    }
+                </select>
+                <p>Course Category: </p>
+                <select class="form-control" name="courseId">
+                    @foreach (var item in Courses)
+                    {
+                        <option value="@item.Id">@item.CourseName</option>
+                    }
+                </select>
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

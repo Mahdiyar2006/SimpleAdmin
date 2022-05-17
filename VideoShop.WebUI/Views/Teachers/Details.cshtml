@@ -1,0 +1,23 @@
+﻿@using VideoShop.Services.Services
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+        var item = new TeacherService().GetAppTeacher(ViewBag.Id);
+}
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Details
+        </div>
+        <div class="card-body">
+            <p style="font-weight: bold">Name: </p>
+            <p>@item.Name</p>
+            <p style="font-weight: bold">Age: </p>
+            <p>@item.Age</p>
+            <p style="font-weight: bold">Address: </p>
+            <p>@item.Address</p>
+            <br />
+            <a href="/Teachers/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>

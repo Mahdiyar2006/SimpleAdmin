@@ -1,0 +1,27 @@
+﻿@using VideoShop.Services.Services;
+@using VideoShop.WebUI.Controllers
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new CategoryCourseService().Get(ViewBag.Id);
+}
+
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Edit
+        </div>
+        <div class="card-body">
+            <form class="col-12 align-middle form-group" action="/CategoryCourses/EditOP" method="post">
+                <p>Title: </p>
+                <input value="@item.Id" type="hidden" name="id" />
+                <input class="form-control" value="@item.Title" type="text" name="title" />
+                <br />
+                <input class="btn btn-success" value="Submit" type="submit" />
+            </form>
+
+        </div>
+    </div>
+</div>

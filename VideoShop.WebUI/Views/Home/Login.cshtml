@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+<html lanimage-orientationationd>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Log In</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap-grid.css" />
+</head>
+<body>
+    <div style="margin-top:10px" class="container">
+        <div class="card">
+            <div class="card-header">
+                Login
+            </div>
+            <div class="card-body">
+                <form class="col-12 align-middle form-group" action="/Home/Login/" method="post">
+                    <p>Username: </p>
+                    <input class="form-control" type="text" name="username" />
+                    <p>Password: </p>
+                    <input class="form-control" type="password" name="pass" />
+                    <br />
+                    <input class="btn btn-success" value="Login" type="submit" />
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <script src="/lib/bootstrap/dist/js/bootstrap.js"></script>
+</body>
+</html>

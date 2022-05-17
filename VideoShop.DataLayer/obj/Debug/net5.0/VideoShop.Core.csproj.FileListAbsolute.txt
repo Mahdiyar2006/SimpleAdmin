@@ -1,0 +1,15 @@
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.Core.deps.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.Core.runtimeconfig.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.Core.runtimeconfig.dev.json
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.Core.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\ref\VideoShop.Core.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\bin\Debug\net5.0\VideoShop.Core.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\ref\VideoShop.Core.dll
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.pdb
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.genruntimeconfig.cache
+C:\Users\mahdi\Desktop\Project\VideoShop\VideoShop\VideoShop.DataLayer\obj\Debug\net5.0\VideoShop.Core.csproj.AssemblyReference.cache

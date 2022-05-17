@@ -1,0 +1,29 @@
+﻿@using VideoShop.Services.Services
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+    var item = new CourseService().Get(ViewBag.Id);
+}
+
+<div style="margin-top:10px" class="container">
+    <div class="card">
+        <div class="card-header">
+            Details
+        </div>
+        <div class="card-body">
+            <p style="font-weight: bold">Course Name: </p>
+            <p>@item.CourseName</p>
+            <p style="font-weight: bold">Course Subject: </p>
+            <p>@item.CourseSubject</p>
+            <p style="font-weight: bold">Content: </p>
+            <p>@item.Content</p>
+            <p style="font-weight: bold">Category Course: </p>
+            <p>@(new CategoryCourseService().Get(item.CategoryCourseId).Title)</p>
+            <p style="font-weight: bold">Teacher Name: </p>
+            <p>@(new TeacherService().GetAll().Where(p => p.Id == item.TeacherId).First().Name)</p>
+            <br />
+            <a href="/Courses/Index" class="btn btn-primary">Back</a>
+        </div>
+    </div>
+</div>
